@@ -1,0 +1,15 @@
+{
+  "name": "curl-process",
+  "version": "0.0.1",
+  "description": "封装curl命令操作，实现访问网页功能。为爬虫实现更高效稳定的底层操作",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuenshui@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1",
+    "zlib": "^1.0.5"
+  }
+}
